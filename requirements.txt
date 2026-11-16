@@ -1,0 +1,6 @@
+numpy
+scipy
+mujoco>=3.3
+clarabel
+opencv-python
+pillow
